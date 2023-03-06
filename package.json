@@ -28,9 +28,6 @@
 
       "no-redeclare": "off",
       "varsIgnorePattern": "[iI]gnored"
-    },
-    "no-unused-vars": {
-       "argsIgnorePattern":" ^_"
     }
 
   },
